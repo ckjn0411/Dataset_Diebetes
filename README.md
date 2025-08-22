@@ -31,7 +31,7 @@ Diabetes_Dataset/
     python -m venv venv
     venv\Scripts\activate    # Trên Windows
     source venv/bin/activate # Trên macOS/Linux
-    pip install -r requirements.txt
+    pip install pandas streamlit numpy plotly
 3. **Chạy ứng dụng Streamlit**
     ```bash
     streamlit run app.py
