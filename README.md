@@ -24,7 +24,7 @@ Diabetes_Dataset/
 ## Cách cài đặt và chạy dự án
 1. **Clone dự án về máy**
    ```bash
-   git clone https://github.com/your-username/diabetes-dataset.git
+   git clone https://github.com/ckjn0411/Dataset_Diebetes.git
    cd diabetes-dataset
 2. **Tạo môi trường ảo và cài đặt thư viện**
     ```bash
