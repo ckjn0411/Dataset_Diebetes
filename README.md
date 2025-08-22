@@ -25,7 +25,6 @@ Diabetes_Dataset/
 1. **Clone dự án về máy**
    ```bash
    git clone https://github.com/ckjn0411/Dataset_Diebetes.git
-   cd diabetes-dataset
 2. **Tạo môi trường ảo và cài đặt thư viện**
     ```bash
     python -m venv venv
