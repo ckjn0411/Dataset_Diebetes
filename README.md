@@ -3,7 +3,7 @@
 ## Giới thiệu
 Ứng dụng web tương tác được xây dựng bằng **Streamlit** để khám phá và làm sạch bộ dữ liệu **Pima Indians Diabetes**.  
 Dự án tập trung vào **chuẩn bị dữ liệu, trực quan hóa và phân tích** thông qua các biểu đồ và bộ lọc tương tác.  
-Ứng dụng cho phép người dùng **xem, làm sạch và xuất dữ liệu** mà không áp dụng các kỹ thuật học máy.
+Ứng dụng cho phép người dùng **xem, làm sạch và xuất dữ liệu**.
 
 ## Cấu trúc dự án
 Diabetes_Dataset/
